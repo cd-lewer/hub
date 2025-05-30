@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Charles Lewer'
+theme = 'hugo-theme-stack'
+
+[params]
+  defaultSidebar = "right"
+  [params.sidebar]
+    subtitle = "Wanderer. Coder. Guitar slinger."
+
+  [params.social]
+    Github = "https://github.com/yourusername"
+    Twitter = "https://twitter.com/yourhandle"
+    LinkedIn = "https://www.linkedin.com/in/yourprofile"
+    Instagram = "https://instagram.com/yourhandle"
+    YouTube = "https://youtube.com/@yourchannel"
+
+  [params.widgets]
+    sidebar = ["search", "social", "recent", "categories"]
+    pag = ["tag"]
+
+[menu]
+  [[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/pages/about'
+  weight = 1
+    
+  [[menu.main]]
+  identifier = 'post'
+  name = 'Post'
+  url = '/post'
+  weight = 2
