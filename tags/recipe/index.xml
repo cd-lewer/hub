@@ -1,179 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Recipe on Charles Lewer</title>
-        <link>https://cd-lewer.github.io/hub/tags/recipe/</link>
-        <description>Recent content in Recipe on Charles Lewer</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 30 May 2025 14:25:56 -0500</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/tags/recipe/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Overnight Oats</title>
-        <link>https://cd-lewer.github.io/hub/post/my-first-post/</link>
-        <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
-        
-        <guid>https://cd-lewer.github.io/hub/post/my-first-post/</guid>
-        <description>&lt;h1 id=&#34;quick-and-easy-breakfast&#34;&gt;Quick and Easy Breakfast
-&lt;/h1&gt;&lt;p&gt;The best way to start your day is with a dense nutrient bomb at the beginning of the day. Something with plenty of healthy fats, fiber, antioxidants, and slow-digesting carbohydrates — all working together to fuel your body and mind.&lt;/p&gt;
-&lt;p&gt;This overnight oat blend is more than just convenient — it&amp;rsquo;s a powerful, balanced meal designed to nourish your gut, support your brain, and stabilize your energy levels throughout the day. It&amp;rsquo;s packed with omega-3s from walnuts and chia seeds, rich in fiber and resistant starch from oats, and loaded with anti-inflammatory compounds like turmeric and blueberries. The combination of protein, fat, and complex carbs helps prevent blood sugar spikes and crashes, keeping you fuller longer and helping you stay sharp and focused.&lt;/p&gt;
-&lt;p&gt;Whether you&amp;rsquo;re lifting weights, walking into meetings, or chasing dreams, this breakfast sets you up to thrive.&lt;/p&gt;
-&lt;h2 id=&#34;estimated-nutritional-value-per-8oz-jar&#34;&gt;Estimated Nutritional Value (per 8oz jar)
-&lt;/h2&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Nutrient&lt;/th&gt;
-          &lt;th&gt;Amount per jar&lt;/th&gt;
-          &lt;th&gt;% Daily Value (based on 2,000 cal diet)&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Calories&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~380–430 kcal&lt;/td&gt;
-          &lt;td&gt;~19–22%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Protein&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~15–17 g&lt;/td&gt;
-          &lt;td&gt;~30–34%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Fiber&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~12–14 g&lt;/td&gt;
-          &lt;td&gt;~43–50%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Healthy Fats&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~19–21 g&lt;/td&gt;
-          &lt;td&gt;~29–32%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Omega-3 (ALA)&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~4 g&lt;/td&gt;
-          &lt;td&gt;&amp;gt;250% (more than daily recommended)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Magnesium&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~130–160 mg&lt;/td&gt;
-          &lt;td&gt;~33–40%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Zinc&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~2–3 mg&lt;/td&gt;
-          &lt;td&gt;~20–25%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Iron&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~3–4 mg&lt;/td&gt;
-          &lt;td&gt;~17–22%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Potassium&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~450–550 mg&lt;/td&gt;
-          &lt;td&gt;~10–15%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Manganese&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~1.5–2 mg&lt;/td&gt;
-          &lt;td&gt;~65–100%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Niacin (B3)&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;~1 mg&lt;/td&gt;
-          &lt;td&gt;~6–8%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Antioxidants&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;High (from berries, turmeric, nuts)&lt;/td&gt;
-          &lt;td&gt;Excellent for cellular health&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients
-&lt;/h2&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Ingredient&lt;/th&gt;
-          &lt;th&gt;Amount&lt;/th&gt;
-          &lt;th&gt;Why It’s Included&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/product/protein-oats&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Protein Oats&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;½ cup&lt;/td&gt;
-          &lt;td&gt;High-protein whole grain carbs for long-lasting energy and fullness&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/organic-chia-seeds.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Chia Seeds&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tbsp&lt;/td&gt;
-          &lt;td&gt;Omega-3s, fiber, and a gelatinous texture that aids digestion&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/organic-pumpkin-seeds.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Pumpkin Seeds&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tbsp&lt;/td&gt;
-          &lt;td&gt;Rich in magnesium, zinc, and healthy fats for heart and immune support&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/baking-with-nuts/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Walnuts&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tbsp (crushed)&lt;/td&gt;
-          &lt;td&gt;Plant-based omega-3s and polyphenols to reduce inflammation&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/blueberries-10-reasons-you-should-eat-them/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Blueberries&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;¼ cup&lt;/td&gt;
-          &lt;td&gt;Antioxidants to fight oxidative stress and boost brain health&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/flaked-coconut.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Coconut Flakes&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tbsp&lt;/td&gt;
-          &lt;td&gt;Healthy fats and texture; supports metabolism and adds flavor&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pb2foods.com/products/pb2-original-powdered-peanut-butter-peanut-butter-powder&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;PB2 (Powdered Peanut Butter)&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tbsp&lt;/td&gt;
-          &lt;td&gt;Protein and flavor with less fat and fewer calories than traditional peanut butter&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/turmeric-benefits-recipes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Turmeric&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;¼ tsp&lt;/td&gt;
-          &lt;td&gt;Anti-inflammatory and antioxidant properties&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/how-to-use-black-pepper/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Black Pepper&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;A pinch&lt;/td&gt;
-          &lt;td&gt;Enhances absorption of curcumin in turmeric&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/oat-milk-how-to-make-it/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Oat Milk&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;½ cup&lt;/td&gt;
-          &lt;td&gt;Dairy-free creamy base with added fiber&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bobsredmill.com/blog/healthy-living/baking-with-natural-sweeteners/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Maple Syrup&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;1 tsp (optional)&lt;/td&gt;
-          &lt;td&gt;Natural sweetener with trace minerals — better than refined sugar&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;supplies&#34;&gt;Supplies
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;6–12 8oz Mason jars (with lids)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipe on Charles Lewer</title><link>https://cd-lewer.github.io/hub/tags/recipe/</link><description>Recent content in Recipe on Charles Lewer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 14:25:56 -0500</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/tags/recipe/index.xml" rel="self" type="application/rss+xml"/><item><title>Overnight Oats</title><link>https://cd-lewer.github.io/hub/post/my-first-post/</link><pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate><guid>https://cd-lewer.github.io/hub/post/my-first-post/</guid><description>&lt;h1 id="quick-and-easy-breakfast">Quick and Easy Breakfast
+&lt;/h1>&lt;p>The best way to start your day is with a dense nutrient bomb at the beginning of the day. Something with plenty of healthy fats, fiber, antioxidants, and slow-digesting carbohydrates — all working together to fuel your body and mind.&lt;/p>
+&lt;p>This overnight oat blend is more than just convenient — it&amp;rsquo;s a powerful, balanced meal designed to nourish your gut, support your brain, and stabilize your energy levels throughout the day. It&amp;rsquo;s packed with omega-3s from walnuts and chia seeds, rich in fiber and resistant starch from oats, and loaded with anti-inflammatory compounds like turmeric and blueberries. The combination of protein, fat, and complex carbs helps prevent blood sugar spikes and crashes, keeping you fuller longer and helping you stay sharp and focused.&lt;/p>
+&lt;p>Whether you&amp;rsquo;re lifting weights, walking into meetings, or chasing dreams, this breakfast sets you up to thrive.&lt;/p>
+&lt;h2 id="estimated-nutritional-value-per-8oz-jar">Estimated Nutritional Value (per 8oz jar)
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Nutrient&lt;/th>
+&lt;th>Amount per jar&lt;/th>
+&lt;th>% Daily Value (based on 2,000 cal diet)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Calories&lt;/strong>&lt;/td>
+&lt;td>~380–430 kcal&lt;/td>
+&lt;td>~19–22%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Protein&lt;/strong>&lt;/td>
+&lt;td>~15–17 g&lt;/td>
+&lt;td>~30–34%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Fiber&lt;/strong>&lt;/td>
+&lt;td>~12–14 g&lt;/td>
+&lt;td>~43–50%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Healthy Fats&lt;/strong>&lt;/td>
+&lt;td>~19–21 g&lt;/td>
+&lt;td>~29–32%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Omega-3 (ALA)&lt;/strong>&lt;/td>
+&lt;td>~4 g&lt;/td>
+&lt;td>&amp;gt;250% (more than daily recommended)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Magnesium&lt;/strong>&lt;/td>
+&lt;td>~130–160 mg&lt;/td>
+&lt;td>~33–40%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Zinc&lt;/strong>&lt;/td>
+&lt;td>~2–3 mg&lt;/td>
+&lt;td>~20–25%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Iron&lt;/strong>&lt;/td>
+&lt;td>~3–4 mg&lt;/td>
+&lt;td>~17–22%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Potassium&lt;/strong>&lt;/td>
+&lt;td>~450–550 mg&lt;/td>
+&lt;td>~10–15%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Manganese&lt;/strong>&lt;/td>
+&lt;td>~1.5–2 mg&lt;/td>
+&lt;td>~65–100%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Niacin (B3)&lt;/strong>&lt;/td>
+&lt;td>~1 mg&lt;/td>
+&lt;td>~6–8%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Antioxidants&lt;/strong>&lt;/td>
+&lt;td>High (from berries, turmeric, nuts)&lt;/td>
+&lt;td>Excellent for cellular health&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="ingredients">Ingredients
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Ingredient&lt;/th>
+&lt;th>Amount&lt;/th>
+&lt;th>Why It’s Included&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/product/protein-oats" target="_blank" rel="noopener"
+>&lt;strong>Protein Oats&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>½ cup&lt;/td>
+&lt;td>High-protein whole grain carbs for long-lasting energy and fullness&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/organic-chia-seeds.html" target="_blank" rel="noopener"
+>&lt;strong>Chia Seeds&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tbsp&lt;/td>
+&lt;td>Omega-3s, fiber, and a gelatinous texture that aids digestion&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/organic-pumpkin-seeds.html" target="_blank" rel="noopener"
+>&lt;strong>Pumpkin Seeds&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tbsp&lt;/td>
+&lt;td>Rich in magnesium, zinc, and healthy fats for heart and immune support&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/baking-with-nuts/" target="_blank" rel="noopener"
+>&lt;strong>Walnuts&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tbsp (crushed)&lt;/td>
+&lt;td>Plant-based omega-3s and polyphenols to reduce inflammation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/blueberries-10-reasons-you-should-eat-them/" target="_blank" rel="noopener"
+>&lt;strong>Blueberries&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>¼ cup&lt;/td>
+&lt;td>Antioxidants to fight oxidative stress and boost brain health&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/flaked-coconut.html" target="_blank" rel="noopener"
+>&lt;strong>Coconut Flakes&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tbsp&lt;/td>
+&lt;td>Healthy fats and texture; supports metabolism and adds flavor&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.pb2foods.com/products/pb2-original-powdered-peanut-butter-peanut-butter-powder" target="_blank" rel="noopener"
+>&lt;strong>PB2 (Powdered Peanut Butter)&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tbsp&lt;/td>
+&lt;td>Protein and flavor with less fat and fewer calories than traditional peanut butter&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/turmeric-benefits-recipes/" target="_blank" rel="noopener"
+>&lt;strong>Turmeric&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>¼ tsp&lt;/td>
+&lt;td>Anti-inflammatory and antioxidant properties&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/how-to-use-black-pepper/" target="_blank" rel="noopener"
+>&lt;strong>Black Pepper&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>A pinch&lt;/td>
+&lt;td>Enhances absorption of curcumin in turmeric&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/oat-milk-how-to-make-it/" target="_blank" rel="noopener"
+>&lt;strong>Oat Milk&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>½ cup&lt;/td>
+&lt;td>Dairy-free creamy base with added fiber&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a class="link" href="https://www.bobsredmill.com/blog/healthy-living/baking-with-natural-sweeteners/" target="_blank" rel="noopener"
+>&lt;strong>Maple Syrup&lt;/strong>&lt;/a>&lt;/td>
+&lt;td>1 tsp (optional)&lt;/td>
+&lt;td>Natural sweetener with trace minerals — better than refined sugar&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="supplies">Supplies
+&lt;/h2>&lt;ul>
+&lt;li>6–12 8oz Mason jars (with lids)&lt;/li>
+&lt;/ul></description></item></channel></rss>
