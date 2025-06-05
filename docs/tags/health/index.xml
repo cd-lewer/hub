@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health on Charles Lewer</title>
-    <link>https://example.org/tags/health/</link>
+    <link>https://cd-lewer.github.io/hub/tags/health/</link>
     <description>Recent content in Health on Charles Lewer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 May 2025 14:25:56 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cd-lewer.github.io/hub/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overnight Oats</title>
-      <link>https://example.org/post/my-first-post/</link>
+      <link>https://cd-lewer.github.io/hub/post/my-first-post/</link>
       <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
-      <guid>https://example.org/post/my-first-post/</guid>
+      <guid>https://cd-lewer.github.io/hub/post/my-first-post/</guid>
       <description>&lt;h1 id=&#34;quick-and-easy-breakfast&#34;&gt;Quick and Easy Breakfast&lt;/h1&gt;&#xA;&lt;p&gt;The best way to start your day is with a dense nutrient bomb at the beginning of the day. Something with plenty of healthy fats, fiber, antioxidants, and slow-digesting carbohydrates — all working together to fuel your body and mind.&lt;/p&gt;&#xA;&lt;p&gt;This overnight oat blend is more than just convenient — it&amp;rsquo;s a powerful, balanced meal designed to nourish your gut, support your brain, and stabilize your energy levels throughout the day. It&amp;rsquo;s packed with omega-3s from walnuts and chia seeds, rich in fiber and resistant starch from oats, and loaded with anti-inflammatory compounds like turmeric and blueberries. The combination of protein, fat, and complex carbs helps prevent blood sugar spikes and crashes, keeping you fuller longer and helping you stay sharp and focused.&lt;/p&gt;</description>
     </item>
   </channel>
