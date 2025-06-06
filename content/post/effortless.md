@@ -1,6 +1,6 @@
 +++
 date = '2025-06-06T16:09:04Z'
-draft = true
+draft = false
 title = 'Effortless'
 tags = ["poetry"]
 +++
