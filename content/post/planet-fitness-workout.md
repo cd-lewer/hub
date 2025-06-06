@@ -1,5 +1,5 @@
 +++
-title = "Planet Fitness Workout"
+title = "2025-06-05 Workout"
 date = 2025-06-06T00:00:00
 tags = ["Workout", "Fitness", "Planet Fitness"]
 draft = false
