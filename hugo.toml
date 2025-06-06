@@ -2,6 +2,7 @@ baseURL = "https://cd-lewer.github.io/hub/"
 languageCode = 'en-us'
 title = 'Charles Lewer'
 theme = 'hugo-theme-stack'
+publishDir = "docs"
 
 [params]
   defaultSidebar = "right"
