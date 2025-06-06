@@ -1,5 +1,5 @@
 +++
-title = "Power Sandwich: Peanut Butter, Banana & Spices"
+title = "Power Lunch: Peanut Butter, Banana & Spices"
 date = 2025-06-05T12:00:00Z
 draft = false
 tags = ["Lunch", "Healthy", "Recipe", "Meal Prep"]
