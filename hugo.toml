@@ -6,7 +6,7 @@ theme = 'hugo-theme-stack'
 [params]
   defaultSidebar = "right"
   [params.sidebar]
-    subtitle = "Wanderer. Coder. Guitar slinger."
+    subtitle = "Biten off more than I can chew and chewin it."
 
   [params.social]
     Github = "https://github.com/yourusername"
