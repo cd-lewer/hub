@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Charles Lewer</title>
-    <link>https://example.org/pages/</link>
-    <description>Recent content in Pages on Charles Lewer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 14:17:52 -0500</lastBuildDate>
-    <atom:link href="https://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Myself</title>
-      <link>https://example.org/pages/about/</link>
-      <pubDate>Fri, 30 May 2025 14:17:52 -0500</pubDate>
-      <guid>https://example.org/pages/about/</guid>
-      <description>&lt;h1 id=&#34;heres-a-little-story&#34;&gt;Here&amp;rsquo;s a little story&amp;hellip;&lt;/h1&gt;&#xA;&lt;p&gt;Boom bop bam&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Pages on Charles Lewer</title>
+        <link>https://cd-lewer.github.io/hub/pages/</link>
+        <description>Recent content in Pages on Charles Lewer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 30 May 2025 14:17:52 -0500</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Myself</title>
+        <link>https://cd-lewer.github.io/hub/pages/about/</link>
+        <pubDate>Fri, 30 May 2025 14:17:52 -0500</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/pages/about/</guid>
+        <description>&lt;h1 id=&#34;heres-a-little-story&#34;&gt;Here&amp;rsquo;s a little story&amp;hellip;
+&lt;/h1&gt;&lt;p&gt;Boom bop bam&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

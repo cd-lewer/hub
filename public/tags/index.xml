@@ -1,54 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Charles Lewer</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on Charles Lewer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Healthy</title>
-      <link>https://example.org/tags/healthy/</link>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/healthy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lunch</title>
-      <link>https://example.org/tags/lunch/</link>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/lunch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meal Prep</title>
-      <link>https://example.org/tags/meal-prep/</link>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/meal-prep/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recipe</title>
-      <link>https://example.org/tags/recipe/</link>
-      <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/recipe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>https://example.org/tags/food/</link>
-      <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
-      <guid>https://example.org/tags/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>https://example.org/tags/health/</link>
-      <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
-      <guid>https://example.org/tags/health/</guid>
-      <description></description>
-    </item>
-  </channel>
+    <channel>
+        <title>Tags on Charles Lewer</title>
+        <link>https://cd-lewer.github.io/hub/tags/</link>
+        <description>Recent content in Tags on Charles Lewer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fitness</title>
+        <link>https://cd-lewer.github.io/hub/tags/fitness/</link>
+        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/fitness/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Planet Fitness</title>
+        <link>https://cd-lewer.github.io/hub/tags/planet-fitness/</link>
+        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/planet-fitness/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Workout</title>
+        <link>https://cd-lewer.github.io/hub/tags/workout/</link>
+        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/workout/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Healthy</title>
+        <link>https://cd-lewer.github.io/hub/tags/healthy/</link>
+        <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/healthy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Lunch</title>
+        <link>https://cd-lewer.github.io/hub/tags/lunch/</link>
+        <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/lunch/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Meal Prep</title>
+        <link>https://cd-lewer.github.io/hub/tags/meal-prep/</link>
+        <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/meal-prep/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Recipe</title>
+        <link>https://cd-lewer.github.io/hub/tags/recipe/</link>
+        <pubDate>Thu, 05 Jun 2025 12:00:00 +0000</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/recipe/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Food</title>
+        <link>https://cd-lewer.github.io/hub/tags/food/</link>
+        <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/food/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Health</title>
+        <link>https://cd-lewer.github.io/hub/tags/health/</link>
+        <pubDate>Fri, 30 May 2025 14:25:56 -0500</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/tags/health/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>
