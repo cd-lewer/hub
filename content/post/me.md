@@ -5,3 +5,4 @@ draft: false
 ---
 # It's really me
 ![Photo of me](/images/my-photo.jpg)
+![Photo of me](/images/my-photo.jpg)
