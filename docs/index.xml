@@ -13,7 +13,7 @@
         
         <guid>https://cd-lewer.github.io/hub/post/me/</guid>
         <description>&lt;h1 id=&#34;its-really-me&#34;&gt;It&amp;rsquo;s really me
-&lt;/h1&gt;&lt;p&gt;![Photo of me]({{ &amp;ldquo;images/my-photo.jpg&amp;rdquo; | relURL }})&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;![Photo of me]({{ &amp;ldquo;images/my-photo.jpg&amp;rdquo; | absURL }})&lt;/p&gt;
 </description>
         </item>
         <item>
