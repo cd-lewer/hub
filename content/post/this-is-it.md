@@ -2,6 +2,7 @@
 title: "This is it"
 date: 2025-06-10T23:36:48-05:00
 draft: false
+tags: ["poetry", "Journal"]
 ---
 
 # This is it
@@ -22,11 +23,11 @@ Soul mate 246
 
 I want to sob into a deep sleep, live in my strange dreams.
 
-Heart's beat to shit. Too much excitment for one life time. Or not enough.
+Heart's beat to shit. Neglected. Turning.
 
-I'll need to take care of it for the love I have left. For my people. 
+Saving it for them. 
 
-I understand why the Orangutang lives in solitude.
+The majestic Orangutang lives in solitude.
 
 
 ## I. I. I. I. I. I. I. I...
@@ -51,9 +52,9 @@ She is finally free.
 
 Solace for us. 
 
-I've felt like a horrible person for years. I gave everything past the point of disregard for my own wellbein. Knowning I couldn't give enough.
+I've felt like a horrible person for years. I  disregard for my own wellbeing. "Taking on more will fix this". Knowning I couldn't give enough.
 
-Seductive Fantasies. Demonization. Ego. Avoidance. 
+Unwittingly competing with seductive Fantasies. Demonization. Ego. Avoidance. 
 
 Addiction.
 
@@ -61,7 +62,7 @@ Avoidance.
 
 Why wouldn't she see me?
 
-I took care of her, loved her, lived with her. I gave her everything I had, married her and felt so alone.
+I took care of her, loved her, lived with her. I gave her everything I had, married her, and felt alone.
 
 Used.
 
@@ -69,19 +70,21 @@ The love had been gone for a long time.
 
 I brought it up. She denied it. I felt it.
 
-Morose to petulance. Nothing is wrong. Hiding in different parts of the house with her phone. Nothing us wrong. Can't look at me while having sex. Nothing is wrong.
+Moroseness to petulance. Nothing is wrong. Hiding in different parts of the house with her phone. Nothing us wrong. Can't look at me while having sex. Nothing is wrong.
 
-Fights to kick off weekends.
+Fights kick off our weekends.
 
-"We never do anything fun". I'm over worked. My wife can't help. I cant do it all. But if I don't I'll lose everything.
+"We never do anything fun". I'm over worked. My wife can't help. I cant do it all. If I don't I'll lose everything.
 
-"Live in the moment!" with my 401k.
+"Live in the moment!" with my 401k. 
 
 Toxic positivity like a soiled bandage applied directly to my hemoraging.
 
 "You're so negative" as she's having an affair
 
-"I can't give you enough", refuses to get a job until she moves out, comes back to take more equipment that I'm still over extended on.
+"I can't give you enough", refuses to get a job until she moves out.  She blames me for her not being able to get a job. Moving out freed her. She is no longer relegated to starting new projects to avoid accidently finishing anything.  
+
+Comes back to take more equipment that I'm still over extended on. Smiles with teeth that my income cared for.
 
 I want her to see the irony. Knowing that she can't makes me feel alone.
 
