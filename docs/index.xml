@@ -22,8 +22,18 @@
 		alt=&#34;Photo of me&#34;
 	
 	
-&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&gt;
+&lt;img src=&#34;https://cd-lewer.github.io/hub/images/my-photo.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Photo of me&#34;
+	
+	
+&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
