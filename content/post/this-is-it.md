@@ -40,7 +40,7 @@ I relish my alone time.
 
 I want to feel good. I make it worse so easily. I am so sad it's crushing me. 
 
-> I don't. I Relish. I want. I don't. I make. I am. 
+> I'm scared, I don't, I don't, I'm the problem, I relish, I want, I make, I am. 
 
 ## I don't
 
@@ -70,7 +70,7 @@ Her love had been gone for a long time.
 
 I brought it up. She denied it. I felt it.
 
-Moroseness to petulance. "Nothing is wrong". Hiding in different parts of the house with her phone. "Nothing us wrong". Can't look at me while having sex. "Nothing is wrong".
+Moroseness to petulance. "Nothing is wrong". Hiding in different parts of the house with her phone. "Nothing is wrong". Can't look at me while having sex. "Nothing is wrong".
 
 Fights kick off our weekends.
 
@@ -82,7 +82,7 @@ Toxic positivity like a soiled bandage applied directly to my hemorhaging.
 
 "You're so negative" as she's having an affair
 
-"I can't give you enough", refuses to get a job until she moves out.  She blames me for her not being able to get a job. Moving out freed her. She is no longer relegated to starting new projects to avoid accidently finishing anything.  
+"I can't give you enough", refuses to get a job until she moves out. She blames  me for her not being able to get a job. Moving out freed her. She is no longer relegated to starting new projects to avoid accidently finishing anything.  
 
 She comes back today to take more equipment that I'm still over extended on.
 
