@@ -1,12 +1,12 @@
 ---
 title: "This is it"
 date: 2025-06-10T23:36:48-05:00
-draft: true
+draft: false
 ---
 
 # This is it
 
-She came with her parents today to take the rest of her things.
+She came with her parents today to take the rest of her things and some of mine.
 
 She doesn't have enough room for all of the things she wants to take.
 
@@ -27,6 +27,7 @@ Heart's beat to shit. Too much excitment for one life time. Or not enough.
 I'll need to take care of it for the love I have left. For my people. 
 
 I understand why the Orangutang lives in solitude.
+
 
 ## I. I. I. I. I. I. I. I...
 
@@ -80,9 +81,9 @@ Toxic positivity like a soiled bandage applied directly to my hemoraging.
 
 "You're so negative" as she's having an affair
 
-"I can't give you enough", refuses to get a job until she moves out, comes back to take more equipment I'm still over extended on.
+"I can't give you enough", refuses to get a job until she moves out, comes back to take more equipment that I'm still over extended on.
 
-I want her to see the irony. Knowing that she probably can't makes me feel alone.
+I want her to see the irony. Knowing that she can't makes me feel alone.
 
 Jaded
 
@@ -92,3 +93,6 @@ I made a mistake. I've made mistakes. Lot's of mistakes.
 
 Surely I've suffered enough for my past mistakes.
 
+This is it.
+
+I've been waiting to see her for six months. I'm crestfallen. I hugged her. She let me. Reminding me that there is no warmth for the wicked.
