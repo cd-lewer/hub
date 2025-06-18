@@ -4,11 +4,6 @@ date: 2025-06-17T17:40:02-05:00
 draft: false
 tags: ["nuclear"]
 ---
----
-title: "West Lake: A Vision for Clean Power"
-date: 2025-06-17
-draft: false
----
 
 # West Lake: A Vision for Clean Power
 

@@ -1,7 +1,7 @@
 ---
 title: "Daily Self-Care Guide"
 date: 2025-06-15T18:56:27-05:00
-draft: false
+draft: true
 ---
 
 # 🧔 Self-Care Routine: Body, Mind & Mane

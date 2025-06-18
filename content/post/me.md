@@ -1,7 +1,7 @@
 ---
 title: "Me"
 date: 2025-06-06T23:43:35-05:00
-draft: false
+draft: true
 tags: ["personal"]
 ---
 # It's really me

@@ -46,5 +46,6 @@ This sandwich packs a punch—perfect for lunch or pre-workout fuel. It’s rich
 Try toasting the bread for crunch, or batch-prep a whipped peanut butter spread with cinnamon, turmeric, and honey for the week. Just stir and store in a jar!
 
 ---
+draft: true
 
 Fuel your goals, one bite at a time.
