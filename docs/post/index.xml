@@ -6,7 +6,16 @@
         <description>Recent content in Posts on Charles Lewer</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 17 Jun 2025 17:40:02 -0500</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Jun 2025 11:22:01 -0500</lastBuildDate><atom:link href="https://cd-lewer.github.io/hub/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>test</title>
+        <link>https://cd-lewer.github.io/hub/post/test/</link>
+        <pubDate>Wed, 18 Jun 2025 11:22:01 -0500</pubDate>
+        
+        <guid>https://cd-lewer.github.io/hub/post/test/</guid>
+        <description>&lt;p&gt;testerly&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>West Lake: A Vision for Clean Power</title>
         <link>https://cd-lewer.github.io/hub/post/west-lake-a-vivision-for-clean-powerr/</link>
         <pubDate>Tue, 17 Jun 2025 17:40:02 -0500</pubDate>
